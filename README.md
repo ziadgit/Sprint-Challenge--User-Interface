@@ -38,6 +38,8 @@ Semantic HTML conveys meaning via the markup by using semantic tags that inheren
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+Display block will make an element take the full width of its parent element and create a newline after. A display inline will take its specified width and not create a new line.
+
 3. What are the 4 areas of the box model?
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
