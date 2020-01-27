@@ -46,7 +46,13 @@ The four areas are the content area, the padding area, the margin area, and the 
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+The align-items property works on the cross-axis (the vertical axis).
+
+
+
 5. Explain why git is valuable to a team of developers.
+
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
