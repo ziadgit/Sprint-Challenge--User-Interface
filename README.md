@@ -52,7 +52,7 @@ The align-items property works on the cross-axis (the vertical axis).
 
 5. Explain why git is valuable to a team of developers.
 
-
+Git valuable to a team of developers because it facilitates collaboration by allowing multiple variations to exist by tracking each change individually along with tracking groups of changes known as 'branches'. Ultimately, these branches can be applied or reverted to and from the main branch in order to update and/or improve the software over time.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
