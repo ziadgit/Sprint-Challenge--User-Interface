@@ -11,6 +11,9 @@ nav a {
     padding: 25px 0 25px 0;
 }
 
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.1); }
+ 
 
    .top-content .text-container {
        margin: 15px 0 0 0;
