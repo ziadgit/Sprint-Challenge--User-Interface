@@ -34,6 +34,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML conveys meaning via the markup by using semantic tags that inherently convey meaning. For example a <nav> tag can be used rather than a 'generic' <div> tag to indicate to coders and search engines that the element is filled with navigation content.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
 3. What are the 4 areas of the box model?
